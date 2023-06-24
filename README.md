@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Hassan Marzooq
+- 🦸🏻‍♂️ Co-Founder and Head of Technology at Mahyan Tech Solutions
+- 👨🏻‍🎓 Did my Bachelors of Computer Application in Chennai
 - 👀 I Love to make this world Easier through Tech
-- 🥸 I am a JS Geek who can prove the world that JS is the Best!
-- 💞️ Love to collaborate on Life Changing Projects
+- 🥸 I am a JS Geek who can prove that JS is the Best!
+- 💞️ Love to collaborate on Life-Changing Projects
 - 📫 Drop a mail to marzooq703@gmail.com to reach me out
 
 <!---
