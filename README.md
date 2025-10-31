@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hassan Marzooq
 - 🦸🏻‍♂️ Co-Founder and Head of Technology at Mahyan Tech Solutions | tech.mahyan.in
-- ✨ Building Zuthod - A Crypto Brokerage | zuthod.com
+- ✨ Founder of BillerEase, Ai Restaurant management software | billerease.com
 - 👨🏻‍🎓 Did my Bachelors of Computer Application in Chennai
 - 👀 I Love to make this world Easier through Tech
 - 💞️ Love to collaborate on Life-Changing Projects
